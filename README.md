@@ -1,4 +1,4 @@
-# #E-com
+# E-com
 
 ## Description
 A back end for an e-commerce site built with express.js and sequelize to interact with a mysql database.  The database is seeded with test data and when the server is started and sequelize models are synced you can use Insomnia Core to Get, Post, Put and Delete routes.
